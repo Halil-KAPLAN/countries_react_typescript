@@ -3,6 +3,7 @@
 This React example is coded with typescript. It gets the list of countries from an API and lists it on the screen.
 
 This example is posted on the following site. You can check it from the website below.
+
 https://admirable-genie-e3acfb.netlify.app/
 
 ![alt text](public/screenshot.png?raw=true)
