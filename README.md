@@ -5,7 +5,7 @@ This React example is coded with typescript. It gets the list of countries from 
 This example is posted on the following site. You can check it from the website below.
 [side name](https://localhost:3000)
 
-![alt text](public/screenshot.png?raw=true)
+![https://admirable-genie-e3acfb.netlify.app/](https://admirable-genie-e3acfb.netlify.app/)
 
 ## Installation
 
