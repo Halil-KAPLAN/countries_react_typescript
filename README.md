@@ -5,6 +5,8 @@ This React example is coded with typescript. It gets the list of countries from 
 This example is posted on the following site. You can check it from the website below.
 https://admirable-genie-e3acfb.netlify.app/
 
+![alt text](public/screenshot.png?raw=true)
+
 ## Installation
 
 NodeJS must be installed for the project to work.
